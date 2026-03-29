@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/badge/version-V18.7-2563eb">
+  <img alt="version" src="https://img.shields.io/badge/version-V18.8-2563eb">
   <img alt="platform" src="https://img.shields.io/badge/platform-Cloudflare%20Workers-orange">
   <img alt="storage" src="https://img.shields.io/badge/storage-KV%20%2B%20D1-green">
   <img alt="ui" src="https://img.shields.io/badge/panel-SaaS%20UI-purple">
